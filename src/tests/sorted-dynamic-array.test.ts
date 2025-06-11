@@ -45,16 +45,16 @@ describe("SortedDynamicArray", () => {
     expect(arr.traverse()).toEqual([2, 2, 3, 4]);
   });
 
-  it("should find existing values with binarySearch", () => {
+  it("should find existing values with find", () => {
     [2, 4, 6, 8].forEach((v) => arr.insert(v));
-    expect(arr.binarySearch(2)).toBe(0);
-    expect(arr.binarySearch(6)).toBe(2);
-    expect(arr.binarySearch(8)).toBe(3);
+    expect(arr.find(2)).toBe(0);
+    expect(arr.find(6)).toBe(2);
+    expect(arr.find(8)).toBe(3);
   });
 
-  it("should return -1 in binarySearch for missing values", () => {
+  it("should return -1 in find for missing values", () => {
     [1, 2, 3].forEach((v) => arr.insert(v));
-    expect(arr.binarySearch(99)).toBe(-1);
+    expect(arr.find(99)).toBe(-1);
   });
 
   it("should return all elements in order with traverse", () => {
