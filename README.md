@@ -23,8 +23,8 @@ If you're learning along or want to see practical code examples, feel free to ex
 
 | Week | Topics & Books                                                    | Status      |
 | ---- | ----------------------------------------------------------------- | ----------- |
-| 1    | Introduction + Arrays (*Grokking Data Structures*)                | ✅ Done      |
-| 2    | Big-O + Dynamic Arrays (*Grokking Data Structures*)               | In Progress |
+| 1    | Introduction + Arrays (*Grokking Data Structures*)                | ✅ Done     |
+| 2    | Big-O + Dynamic Arrays (*Grokking Data Structures*)               | ✅ Done     |
 | 3    | Linked Lists + Abstract Data Types (*Grokking Data Structures*)   |             |
 | 4    | Stacks & Queues (*Grokking Data Structures*)                      |             |
 | 5    | Priority Queues + Heaps (*Grokking Data Structures*)              |             |
@@ -48,7 +48,7 @@ If you're learning along or want to see practical code examples, feel free to ex
 ### Week 2: Big-O + Dynamic Arrays
 
 📖 Chapters from *Grokking Data Structures* — [Tasks](https://www.notion.so/Week-2-Tasks-20d8c3ec9c57807195ece2ef9f756ab7)
-🔄 Currently working on Dynamic Arrays and Sorted Dynamic Arrays implementations and tests
+✔️ Implemented Dynamic Arrays and Sorted Dynamic Arrays with unit tests
 
 ### Week 3 - 12
 
@@ -79,7 +79,6 @@ Tests cover both correctness and performance considerations like resizing and bi
 ## Contributions & Feedback
 
 This repo is a personal learning project and a work in progress.
-I’m currently working through Week 2 tasks and beyond.
 If you find any issues or have suggestions, feel free to open an issue or pull request — I’d appreciate the feedback!
 
 ---
