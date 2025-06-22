@@ -26,7 +26,7 @@ If you're learning along or want to see practical code examples, feel free to ex
 | 1    | Introduction + Arrays (*Grokking Data Structures*)                | ✅ Done     |
 | 2    | Big-O + Dynamic Arrays (*Grokking Data Structures*)               | ✅ Done     |
 | 3    | Linked Lists + Abstract Data Types (*Grokking Data Structures*)   | ✅ Done     |
-| 4    | Stacks & Queues (*Grokking Data Structures*)                      |             |
+| 4    | Stacks & Queues (*Grokking Data Structures*)                      | ⚒️ In Progress |
 | 5    | Priority Queues + Heaps (*Grokking Data Structures*)              |             |
 | 6    | Trees, Hash Tables, Graphs (*Grokking Data Structures*)           |             |
 | 7    | Algorithm Basics + Sorting (*Grokking Algorithms*)                |             |
