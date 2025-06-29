@@ -26,7 +26,7 @@ If you're learning along or want to see practical code examples, feel free to ex
 | 1    | Introduction + Arrays (*Grokking Data Structures*)                | ✅ Done     |
 | 2    | Big-O + Dynamic Arrays (*Grokking Data Structures*)               | ✅ Done     |
 | 3    | Linked Lists + Abstract Data Types (*Grokking Data Structures*)   | ✅ Done     |
-| 4    | Stacks & Queues (*Grokking Data Structures*)                      | ⚒️ In Progress |
+| 4    | Stacks & Queues (*Grokking Data Structures*)                      | ✅ Done     |
 | 5    | Priority Queues + Heaps (*Grokking Data Structures*)              |             |
 | 6    | Trees, Hash Tables, Graphs (*Grokking Data Structures*)           |             |
 | 7    | Algorithm Basics + Sorting (*Grokking Algorithms*)                |             |
@@ -50,12 +50,17 @@ If you're learning along or want to see practical code examples, feel free to ex
 📖 Chapters from *Grokking Data Structures* — [Tasks](https://www.notion.so/Week-2-Tasks-20d8c3ec9c57807195ece2ef9f756ab7)
 ✔️ Implemented Dynamic Arrays and Sorted Dynamic Arrays with unit tests
 
-### Week 3: Big-O + Dynamic Arrays
+### Week 3: Linked Lists + Abstract Data Type (Bag)
 
 📖 Chapters from *Grokking Data Structures* — [Tasks](https://www.notion.so/Week-3-Tasks-2198c3ec9c578010aec5d1b3c8c91133)
 ✔️ Implemented Linked Lists and Abstract Data Types with unit tests
 
-### Week 4 - 12
+### Week 4: Stacks + Queues
+
+📖 Chapters from *Grokking Data Structures* — [Tasks](https://www.notion.so/Week-4-Tasks-2218c3ec9c578041ae7fc4f4df5fdf4d)
+✔️ Implemented Stacks and Queues with unit tests
+
+### Week 5 - 12
 
 *(To be implemented — following the roadmap above)*
 
